@@ -1,0 +1,11 @@
+const url = 'http://192.168.74.115:4000/';
+final registration = url + "register";
+final login = url + 'login';
+final resetPassword = url + 'resetpassword';
+final slogin = url + 'slogin';
+final sregister = url + 'sregister';
+final sresetPassword = url + 'sresetpassword';
+final takeAttendance = url + 'addAttendance';
+final showAttendance = url + 'attendance';
+final showStudentAttendance = url + 'sattendance';
+// final facerecognition = url + 'face_recognition';
